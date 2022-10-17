@@ -1,21 +1,16 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Acforest&right_color=red" />
 
 # Xin Huang
-### *Bachelor's degree*
-
+### Bachelor's degree
 College of Information and Electrical Engineering, Computer Science
-
 China Agricultural University
-
 17 Tsinghua East Road
-
-Haidian Dist, Beijing
-
+Haidian District, Beijing
 China, 100083
 
 ## Education
 
-- 2018.09-2022.07 College of Information and Electrical Engineering, Computer Science, China Agricultural University, Beijing.
+- 2018.09-2022.07 Computer Science, College of Information and Electrical Engineering, China Agricultural University, Beijing.
 
 ## Research Interests
 
