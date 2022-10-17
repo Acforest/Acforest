@@ -3,9 +3,13 @@
 # Xin Huang
 ### Bachelor's degree
 College of Information and Electrical Engineering, Computer Science
+
 China Agricultural University
+
 17 Tsinghua East Road
+
 Haidian District, Beijing
+
 China, 100083
 
 ## Education
