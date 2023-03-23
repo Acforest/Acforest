@@ -15,18 +15,17 @@ China, 100083
 ## Education
 
 - 2018.09-2022.07 Computer Science, College of Information and Electrical Engineering, China Agricultural University, Beijing.
+- 2022.09-now Cyberspace Science, School of Cyberspace Science and Technology, Beijing Intitute of Technology, Beijing.
 
 ## Research Interests
 
 - Anomaly Detection
-- Multi-modal
 - Natural Language Processing
 
 ## Skills
 
 - Natural Language: Chinese (Native), English (CET-6)
-- Programming Language: Python, C/C++, Java, JavaScript
+- Programming Language: Python, C/C++
 - Typesetting Language: LaTeX, Markdown
-- Programming Framework: PyTorch
 
 ## Publications ([Google Scholar](), [DBLP](), [Semantic Scholar](), [ORCID]())
