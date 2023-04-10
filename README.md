@@ -9,7 +9,7 @@
 
 ## Research Interests
 
-- Log-based Anomaly Detection
+- Anomaly Detection
 - Natural Language Processing
 
 ## Skills
