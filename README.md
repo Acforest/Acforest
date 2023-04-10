@@ -1,16 +1,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Acforest&right_color=red" />
 
 # Xin Huang
-### Bachelor's degree
-College of Information and Electrical Engineering, Computer Science
-
-China Agricultural University
-
-17 Tsinghua East Road
-
-Haidian District, Beijing
-
-China, 100083
 
 ## Education
 
@@ -19,12 +9,12 @@ China, 100083
 
 ## Research Interests
 
-- Anomaly Detection
+- Log-based Anomaly Detection
 - Natural Language Processing
 
 ## Skills
 
-- Natural Language: Chinese (Native), English (CET-6)
+- Natural Language: Chinese (Native), English
 - Programming Language: Python, C/C++
 - Typesetting Language: LaTeX, Markdown
 
