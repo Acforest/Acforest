@@ -1,12 +1,9 @@
 # Xin Huang
 
 ## Education
-
-- 2022.09-now Beijing Intitute of Technology, Beijing.
-- 2018.09-2022.07 China Agricultural University, Beijing.
+- **Jul. 2025 - now: ByteDance Inc.**
+- **Sep. 2022 - Jul. 2025: Beijing Intitute of Technology, Beijing.**
+- **Sep. 2018 - Jul. 2022: China Agricultural University, Beijing.**
 
 ## Research Interests
-
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
+- **(Multimodal) Large Language Models**
